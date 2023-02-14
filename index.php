@@ -164,12 +164,12 @@ require_once "comment.php";
 				            <div class="attr-nav">
 				                <ul>
 				                	<li class="search">
-				                		<a href="#"><span class="lnr lnr-magnifier"></span></a>
+				                		
 				                	</li><!--/.search-->
 				                
 				                    <li class="dropdown">
 				                        <a href="profile.php" class="dropdown-toggle" data-toggle="dropdown" >
-				                            <span class="lnr-user-filled-menu"></span>
+				                            <span class="lnr lnr-user" style="color:orange; font-size:30px;"></span>
 											
 				                        </a>
 				                        <ul class="dropdown-menu cart-list s-cate">
