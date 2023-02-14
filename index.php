@@ -154,11 +154,7 @@ require_once "comment.php";
 				        <!-- Start Top Search -->
 				        <div class="top-search">
 				            <div class="container">
-				                <div class="input-group">
-				                    <span class="input-group-addon"><i class="fa fa-search"></i></span>
-				                    <input type="text" class="form-control" placeholder="Search">
-				                    <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
-				                </div>
+				            
 				            </div>
 				        </div>
 				        <!-- End Top Search -->
@@ -173,7 +169,7 @@ require_once "comment.php";
 				                
 				                    <li class="dropdown">
 				                        <a href="profile.php" class="dropdown-toggle" data-toggle="dropdown" >
-				                            <span class="lnr lnr-cart"></span>
+				                            <span class="lnr-user-filled-menu"></span>
 											
 				                        </a>
 				                        <ul class="dropdown-menu cart-list s-cate">
